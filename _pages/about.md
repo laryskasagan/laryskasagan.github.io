@@ -4,26 +4,24 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I am an engineer with a strong passion for Artificial Intelligence, Machine Learning, and Data Science. Currently, I am pursuing my Master's in Computer Science with a focus on Machine Learning and Data Science. I am particularly intrigued by the potential of data to uncover insights, optimize processes, and inform better decision-making. By applying advanced statistical techniques, machine learning algorithms, and data visualization, I strive to transform complex datasets into actionable and impactful solutions. With a solid foundation in computer engineering, I enjoy tackling challenging problems and constantly seek opportunities to apply and deepen my knowledge in the dynamic and evolving field of data science.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+### 💼 Current Role
 
-## Features
+I am currently working as a Junior Engineer. I analyze production data, perform exploratory data analysis (EDA), and develop analytical models to support FlexSim simulations. My goal is to optimize production line efficiency through data-driven solutions and continuous improvement.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### 🎓 Academic Background
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- **Master's Student in Computer Science** at AGH University of Science and Technology (Currently enrolled)
+- **Postgraduate Studies** in Machine Learning and Data Science at AGH University of Science and Technology
+- **Bachelor of Computer Science in Engineering** at AGH University of Science and Technology
+  - **Engineering Thesis**: *Development of a model to analyze the influence of drawing temperature on the biological properties of biodegradable surgical wires made from ZnMg alloy*
+
+### 🤝 Let’s Connect!
+
+Are you looking for a passionate engineer with a deep interest in AI/ML? Or perhaps you have a job opportunity, project, or collaboration in mind?
+
+I’m actively seeking new opportunities and would love to connect.
+
+You can reach out to me on [LinkedIn](www.linkedin.com/in/larysasagan) or email me at [Gmail](mailto:laryskasagan@gmail.com).
+
