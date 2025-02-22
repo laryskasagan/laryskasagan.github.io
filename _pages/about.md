@@ -12,7 +12,7 @@ I am currently working as a Junior Engineer. I analyze production data, perform 
 
 ### 🎓 Academic Background
 
-- **Master's Student in Computer Science** at AGH University of Science and Technology (Currently enrolled)
+- **Master's Student in Computer Science** at AGH University of Science and Technology *(currently enrolled)*
 - **Postgraduate Studies** in Machine Learning and Data Science at AGH University of Science and Technology
 - **Bachelor of Computer Science in Engineering** at AGH University of Science and Technology
 
