@@ -15,7 +15,7 @@ I am currently working as a Junior Engineer. I analyze production data, perform 
 - **Master's Student in Computer Science** at AGH University of Science and Technology (Currently enrolled)
 - **Postgraduate Studies** in Machine Learning and Data Science at AGH University of Science and Technology
 - **Bachelor of Computer Science in Engineering** at AGH University of Science and Technology
-  - **Engineering Thesis**: *Development of a model to analyze the influence of drawing temperature on the biological properties of biodegradable surgical wires made from ZnMg alloy*
+📄 **Engineering Thesis**: *Development of a model to analyze the influence of drawing temperature on the biological properties of biodegradable surgical wires made from ZnMg alloy*
 
 ### 🤝 Let’s Connect!
 
