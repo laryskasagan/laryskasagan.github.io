@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an engineer with a strong passion for Artificial Intelligence, Machine Learning, and Data Science. Currently, I am pursuing my Master's in Computer Science with a focus on Machine Learning and Data Science. I am particularly intrigued by the potential of data to uncover insights, optimize processes, and inform better decision-making.
+I am an engineer with a strong passion for AI, Machine Learning, and Data Science. Currently, I am pursuing my Master's in Computer Science with a focus on Machine Learning and Data Science. I am particularly intrigued by the potential of data to uncover insights, optimize processes, and inform better decision-making.
 
 ### 💼 Current Role
 
