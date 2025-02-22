@@ -8,7 +8,7 @@ I am an engineer with a strong passion for AI, Machine Learning, and Data Scienc
 
 ### 💼 Current Role
 
-I am currently working as a Junior Engineer. I analyze production data, perform exploratory data analysis (EDA), and develop analytical models to support FlexSim simulations. My goal is to optimize production line efficiency through data-driven solutions and continuous improvement.
+I am currently working as a Junior Engineer. I analyze production data, perform data analysis and develop analytical models to support FlexSim simulations. My goal is to optimize production line efficiency through data-driven solutions and continuous improvement.
 
 ### 🎓 Academic Background
 
