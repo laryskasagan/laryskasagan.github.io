@@ -1,6 +1,6 @@
 # 🚀 My Portfolio  
 
-This repository showcases my projects, expertise, and technical skills. Built with **GitHub Pages** and **Jekyll**, this portfolio serves as a dynamic space for my work
+This repository showcases my projects, expertise, and technical skills. Built with **GitHub Pages** and **Jekyll**, this website serves as a dynamic space for my work.
 
 ## 🌐 Live Preview  
 🔗 [Visit my website](https://laryskasagan.github.io)  
