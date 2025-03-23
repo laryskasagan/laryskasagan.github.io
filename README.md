@@ -11,7 +11,7 @@ Here are some of the featured projects:
 ## 🛠️ Tech Stack  
 - **Language:** R, Python  
 - **Cloud Technologies:** AWS
-- **Machine Learning & AI:**
+- **Machine Learning & AI**
 
 
 
