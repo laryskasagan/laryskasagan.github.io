@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Fetal Health Project
+categories: [R,EDA,ML, Decision Tree, Random Forrest]
+excerpt: Analyze fetal cardiotocograms, explore patterns and relationships between variables using EDA to identify key predictors of fetal health. Then create predictive models that classify fetal health into one of 3 categories. Then test specific hypotheses about how different characteristics affect fetal health.
+---
+
     libs <- c("tidyverse","Amelia","dplyr","rio","summarytools","readr", "caret", "tidymodels", "skimr", "ggcorrplot", "gridExtra", "RColorBrewer", "tree", "rpart", "rpart.plot", 'rattle', 'cluster', 'factoextra')
 
     installed_libs <- libs %in% rownames(installed.packages())
